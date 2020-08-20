@@ -11,5 +11,5 @@ I'm an undergraduate student studying Information Science @ Cornell University.
 - Finishing up an internship @ Amazon
 
 ### 📫 You can reach me at:
-- LinkedIn: [@alicethu](https://www.linkedin.com/in/alicethu)
-- Email: ath84@cornell.edu
+- [LinkedIn](https://www.linkedin.com/in/alicethu)
+- [Email](ath84@cornell.edu)
