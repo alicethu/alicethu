@@ -10,6 +10,6 @@ I'm an undergraduate student studying Information Science @ Cornell University.
 - Restaurant Map Randomizer
 - Finishing up an internship @ Amazon
 
-### 📫 You can reach me at:
+### 📫 You can reach me through:
 - [LinkedIn](https://www.linkedin.com/in/alicethu)
-- [Email](ath84@cornell.edu)
+- [Email](mailto:ath84@cornell.edu)
