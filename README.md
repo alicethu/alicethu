@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hello, I'm Alice
 
 <!--
 **alicethu/alicethu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm an undergraduate student studying information science @ Cornell University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm working on:
+- Google Software Product Sprint (SPS)
+- Restaurant Map Randomizer
+- finishing up an internship @ Amazon
+
+### 📫 You can reach me at:
+- LinkedIn: [@alicethu](https://www.linkedin.com/in/alicethu)
+- Email: ath84@cornell.edu
