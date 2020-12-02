@@ -5,11 +5,6 @@
 
 I'm an undergraduate student studying Information Science @ Cornell University.
 
-### 🌱 I'm working on:
-- Google Software Product Sprint (SPS)
-- Restaurant Map Randomizer
-- Finishing up an internship @ Amazon
-
 ### 📫 You can reach me through:
 - LinkedIn: [@alicethu](https://www.linkedin.com/in/alicethu)
 - Email: [ath84@cornell.edu](mailto:ath84@cornell.edu)
